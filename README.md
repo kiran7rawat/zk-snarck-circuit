@@ -1,6 +1,6 @@
 # zk-snark-circuit
 
-# CUSTOM CIRCUIT USING CIRCOM
+# Custom Circuit Using Circom
 
 This repository contains steps for creating a custom circuit using Circom and zkSNARK. 
 
